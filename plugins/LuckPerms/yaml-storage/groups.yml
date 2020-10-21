@@ -1,0 +1,7 @@
+default:
+  permissions: []
+admin:
+  permissions:
+  - '*'
+  - displayname.Admin
+  - weight.1

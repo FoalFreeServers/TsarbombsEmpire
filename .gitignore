@@ -1,0 +1,14 @@
+# Data
+cache/
+/crash-reports/
+/logs/
+*.log
+libs/
+*.bin
+*.lck
+
+# Worlds
+/flatland/
+
+# Jar files
+*.jar
