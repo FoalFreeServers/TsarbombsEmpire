@@ -9,6 +9,7 @@ libs/
 
 # Worlds
 /flatland/
+/liliune/
 
 # Jar files
 *.jar
