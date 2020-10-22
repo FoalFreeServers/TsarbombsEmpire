@@ -1,1 +1,0 @@
-java -jar -Xmx8G paper-240.jar nogui
